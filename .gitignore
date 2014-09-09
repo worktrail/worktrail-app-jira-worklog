@@ -1,0 +1,8 @@
+/bin
+/.gradle
+/.project
+/.settings
+/.classpath
+/*.properties
+/*.json
+/.ceylon

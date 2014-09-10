@@ -1,6 +1,8 @@
 worktrail-app-jira-worklog
 
-# Sending WorkTrail work entries to JIRA worklog
+# WorkTrail Jira Worklog Sync
+
+Synchronize WorkTrail Time Tracking work entries into the JIRA worklog
 
 
 ## Dependencies
